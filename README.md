@@ -29,7 +29,6 @@ The project aims to simplify campus-related management activities while promotin
 SmartGreenCampus/
 │
 ├── app.py
-├── campus.db
 ├── templates/
 ├── static/
 ├── requirements.txt
